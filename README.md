@@ -1,5 +1,4 @@
 # Sydbyen
-[www.sydbyen.info](http://sydbyen.info/)
 
 ## Pupose of the site
 This is my work for Haderslev Bolig (HAB). The purpose of this site was to collect all information of all social that took place in the south part in Haderslev.
